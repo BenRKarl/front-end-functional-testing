@@ -7,3 +7,7 @@ To run:
 1. Clone the repository
 2. `$ chmod +x jake.sh`
 3. `$ ./jake.sh`
+
+Run tests:
+
+1. `./jake.sh test`
